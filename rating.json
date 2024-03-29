@@ -1,0 +1,182 @@
+[
+  {
+    "idRating": 1,
+    "idFestival": 1,
+    "Rating": "Experiență uimitoare! Atmosfera vibrantă, seturile de DJ-uri fenomenale și energia incredibilă a mulțimii m-au făcut să mă simt în al nouălea cer. Unul dintre cele mai bune festivaluri la care am fost vreodată!"
+  },
+  {
+    "idRating": 2,
+    "idFestival": 1,
+    "Rating": "Am fost dezamăgit de nivelul de aglomerație și de timpul petrecut în cozi la toalete și la punctele de alimentație. Mai mult personal sau o mai bună gestionare a fluxului de participanți ar fi fost benefice."
+  },
+  {
+    "idRating": 3,
+    "idFestival": 1,
+    "Rating": "Prețurile exorbitante pentru băuturi și mâncare au stricat parțial plăcerea festivalului. Ar trebui să existe opțiuni mai accesibile pentru cei cu bugete mai restrânse."
+  },
+  {
+    "idRating": 4,
+    "idFestival": 1,
+    "Rating": "Creamfields este cu adevărat un paradis pentru iubitorii de muzică electronică. Line-up-ul impresionant și producția spectaculoasă au creat un weekend memorabil. Cu siguranță voi reveni anul viitor!"
+  },
+  {
+    "idRating": 5,
+    "idFestival": 1,
+    "Rating": "Locația festivalului este perfectă, iar organizarea impecabilă. Zonele de camping și facilitățile sunt bine întreținute, iar securitatea este asigurată în mod corespunzător. O experiență absolut remarcabilă!"
+  },
+  {
+    "idRating": 6,
+    "idFestival": 1,
+    "Rating": "Sunt dezamăgit de lipsa diversității în ceea ce privește genurile muzicale reprezentate. Se pare că festivalul se axează prea mult pe muzica electronică, lăsând puțin spațiu pentru alte stiluri și artiști."
+  },
+  {
+    "idRating": 7,
+    "idFestival": 2,
+    "Rating": "Unele zone ale festivalului păreau supraaglomerate, ceea ce a făcut dificilă navigarea și a interferat cu experiența generală. O mai bună gestionare a mulțimii ar îmbunătăți semnificativ atmosfera."
+  },
+  {
+    "idRating": 8,
+    "idFestival": 2,
+    "Rating": "Am fost dezamăgit de aglomerația excesivă și de timpul petrecut în cozi interminabile la intrare și la toalete. Mai multe eforturi ar trebui făcute pentru a gestiona mai eficient fluxul de participanți."
+  },
+  {
+    "idRating": 9,
+    "idFestival": 2,
+    "Rating": "Prețurile pentru mâncare, băuturi și suveniruri sunt extrem de mari. Ar trebui să existe opțiuni mai accesibile pentru a satisface nevoile tuturor participanților, în special a celor cu bugete mai reduse."
+  },
+  {
+    "idRating": 10,
+    "idFestival": 2,
+    "Rating": "Diversitatea muzicală de la EDC Las Vegas este remarcabilă. De la EDM la trance și bass, festivalul oferă ceva pentru toate gusturile. Este o experiență muzicală unică, care te face să te îndrăgostești din nou de muzică."
+  },
+  {
+    "idRating": 11,
+    "idFestival": 2,
+    "Rating": "Locația festivalului este spectaculoasă, iar organizarea este impecabilă. Zonele tematice și instalațiile de artă îți taie respirația, iar echipa de securitate este bine pregătită. Un weekend de neuitat!"
+  },
+  {
+    "idRating": 12,
+    "idFestival": 2,
+    "Rating": "Experiență incredibilă! EDC Las Vegas este pur și simplu magic. Seturile de DJ-uri sunt fenomenale, producția este de neegalat și energia din mulțime este contagioasă. Un festival care trebuie experimentat cel puțin o dată în viață!"
+  },
+  {
+    "idRating": 13,
+    "idFestival": 3,
+    "Rating": "Neversea este un festival care îți rămâne în inimă. Atmosfera plină de bucurie și libertate, muzica fantastică și peisajul de-a lungul mării ne fac să uităm de toate griji! Un loc magic pe care cu siguranță nu-l voi uita prea curând."
+  },
+  {
+    "idRating": 14,
+    "idFestival": 3,
+    "Rating": "Locația festivalului este de vis! Plajele frumoase, apusurile uimitoare și clima minunată completează perfect experiența Neversea. Este un loc în care te poți relaxa și te poți bucura de muzică într-un cadru natural spectaculos."
+  },
+  {
+    "idRating": 15,
+    "idFestival": 3,
+    "Rating": "Am fost dezamăgit de nivelul ridicat al aglomerației și de timpii mari petrecuți în cozi, fie la intrare, fie la punctele de alimentație și toalete. O mai bună organizare ar fi esențială pentru a îmbunătăți experiența participanților."
+  },
+  {
+    "idRating": 16,
+    "idFestival": 3,
+    "Rating": "Am observat o lipsă de diversitate în ceea ce privește artiștii și genurile muzicale reprezentate la Neversea. Mai multă varietate ar fi apreciată pentru a satisface gusturile diferite ale participanților."
+  },
+  {
+    "idRating": 17,
+    "idFestival": 3,
+    "Rating": "Prețurile pentru băuturi și mâncare sunt exagerat de mari, iar calitatea produselor nu întotdeauna justifică aceste costuri. Opțiuni mai accesibile ar trebui să fie disponibile pentru a face festivalul mai accesibil pentru toți."
+  },
+  {
+    "idRating": 18,
+    "idFestival": 3,
+    "Rating": "Am fost deranjați de zgomotul excesiv și de lipsa de respect pentru orele de liniște. O mai bună gestionare a volumului muzicii și a activităților după anumite ore ar crea un mediu mai plăcut pentru toți participanții."
+  },
+  {
+    "idRating": 19,
+    "idFestival": 4,
+    "Rating": "Tomorrowland este pur și simplu un paradis al muzicii și al bucuriei! Atmosfera magică, producția incredibilă și seturile uimitoare ale DJ-ilor creează o experiență de neuitat. Un loc unde timpul pare să se oprească și să te învăluie într-un vis muzical."
+  },
+  {
+    "idRating": 20,
+    "idFestival": 4,
+    "Rating": "Locația festivalului este absolut fermecătoare. Parcul tematic, decorurile fantastice și instalațiile de artă te transportă într-o lume de basm. Este imposibil să nu te lași captivat de frumusețea și creativitatea acestui loc."
+  },
+  {
+    "idRating": 21,
+    "idFestival": 4,
+    "Rating": "Diversitatea muzicală de la Tomorrowland este remarcabilă. De la EDM la trance, house și techno, festivalul oferă un spectru larg de genuri muzicale pentru toate gusturile. Este un adevărat rai pentru iubitorii de muzică electronică!"
+  },
+  {
+    "idRating": 22,
+    "idFestival": 4,
+    "Rating": "Organizarea este impecabilă. De la gestionarea mulțimii până la serviciile oferite în interiorul festivalului, totul este bine pus la punct. Nu am întâmpinat probleme și am avut o experiență plăcută de la început până la sfârșit"
+  },
+  {
+    "idRating": 23,
+    "idFestival": 4,
+    "Rating": "Interacțiunea cu alți participanți este extraordinară. Atmosfera prietenoasă și deschisă face ca fiecare întâlnire să fie specială. Tomorrowland nu este doar un festival, este o comunitate care unește oamenii prin muzică și bucurie."
+  },
+  {
+    "idRating": 24,
+    "idFestival": 4,
+    "Rating": "Este imposibil să nu te lași impresionat de producția uluitoare a scenelor și a efectelor vizuale. Fiecare aspect al festivalului este conceput cu atenție la detalii, creând un spectacol vizual și sonor de neegalat. O adevărată călătorie într-o lume de vis!"
+  },
+  {
+    "idRating": 25,
+    "idFestival": 5,
+    "Rating": "Una dintre provocările majore ale Ultra Miami este aglomerația și supraaglomerarea. Cozi lungi la intrare și la punctele de alimentație, precum și mulțimi dense în fața scenelor, pot reduce din plăcerea experienței și pot crea disconfort participanților."
+  },
+  {
+    "idRating": 26,
+    "idFestival": 5,
+    "Rating": "Prețurile pentru băuturi, mâncare și alte servicii în interiorul festivalului sunt excesive. Costurile ridicate pot face ca experiența să fie inaccesibilă pentru unii participanți sau pot limita bugetul disponibil pentru alte activități în cadrul festivalului."
+  },
+  {
+    "idRating": 27,
+    "idFestival": 5,
+    "Rating": "Unele aspecte ale producției, cum ar fi sunetul și iluminatul, pot fi inconsistent sau sub așteptări în anumite zone ale festivalului. O mai bună echilibrare a calității tehnice în toate locațiile ar îmbunătăți experiența auditivă și vizuală pentru toți participanții."
+  },
+  {
+    "idRating": 28,
+    "idFestival": 5,
+    "Rating": "Ultra Miami este o experiență muzicală extraordinară! Seturile incredibile ale DJ-ilor, atmosfera electrică și energia debordantă a mulțimii fac din acest festival unul dintre cele mai intense și captivante evenimente muzicale din lume."
+  },
+  {
+    "idRating": 29,
+    "idFestival": 5,
+    "Rating": "Locația festivalului este absolut superbă. Amplasat pe plajă, cu vedere la ocean, Ultra Miami oferă o scenografie de neegalat. Este o experiență unică să dansezi pe plajă, sub cerul liber, în timp ce te bucuri de muzică de calitate."
+  },
+  {
+    "idRating": 30,
+    "idFestival": 5,
+    "Rating": "Organizarea festivalului este impresionantă. De la sistemul de securitate până la serviciile oferite participanților, totul este gestionat într-un mod profesionist. Nu există probleme majore și totul este pus în scenă cu atenție la detalii."
+  },
+  {
+    "idRating": 31,
+    "idFestival": 6,
+    "Rating": "Una dintre provocările majore ale Untold este aglomerația și supraaglomerarea. Cozi lungi la intrare, la punctele de alimentație și la toalete pot reduce din plăcerea experienței și pot crea disconfort participanților."
+  },
+  {
+    "idRating": 32,
+    "idFestival": 6,
+    "Rating": "Prețurile pentru băuturi, mâncare și alte servicii în interiorul festivalului pot fi considerate ridicate. Costurile excesive pot face ca experiența să fie inaccesibilă pentru unii participanți sau pot limita bugetul disponibil pentru alte activități în cadrul festivalului."
+  },
+  {
+    "idRating": 33,
+    "idFestival": 6,
+    "Rating": "Untold este un festival uimitor! Muzica fantastică, atmosfera vibrantă și producția impresionantă fac din acest eveniment unul dintre cele mai captivante și memorabile din Europa."
+  },
+  {
+    "idRating": 34,
+    "idFestival": 6,
+    "Rating": "Locația festivalului este absolut fascinantă. Castelul Bánffy din Transilvania și împrejurimile sale oferă un cadru deosebit de pitoresc și de fermecător pentru petrecerea unor nopți magice de dans și distracție."
+  },
+  {
+    "idRating": 35,
+    "idFestival": 6,
+    "Rating": "Diversitatea muzicală de la Untold este remarcabilă. De la EDM la trance și house, festivalul aduce laolaltă o gamă largă de artiști și genuri muzicale, oferind ceva pentru toate gusturile și preferințele muzicale."
+  },
+  {
+    "idRating": 36,
+    "idFestival": 6,
+    "Rating": "Interacțiunea cu alți participanți este incredibilă. Atmosfera prietenoasă și deschisă face ca fiecare întâlnire să fie specială. Untold nu este doar un festival, ci și un loc unde se formează legături și prietenii pe viață."
+  }
+]

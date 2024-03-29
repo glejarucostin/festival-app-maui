@@ -1,0 +1,62 @@
+[
+  {
+    "idFestival": 1,
+    "Nume": "Creamfields",
+    "Locatie": "Manchester, UK",
+    "DataIncepere": "22/8/2024",
+    "DataIncheiere": "25/8/2024",
+    "Descriere": "Creamfields este o serie de festivaluri de muzică de dans electronică, fondată și organizată de promotorul britanic Cream, ediția sa din Marea Britanie având loc în weekendul de sărbătoare bancară din august, cu o serie de ediții internaționale desfășurate în diferite teritorii din întreaga lume.",
+    "Artisti": "Armin Van Buuren, Calvin Harris, Charlotte de Witte, James Hype, Steve Angello, 99999999",
+    "Image": "https://weraveyou.com/wp-content/uploads/2021/12/Creamfields-2.jpg"
+  },
+  {
+    "idFestival": 2,
+    "Nume": "EDC Las Vegas",
+    "Locatie": "Las Vegas, USA",
+    "DataIncepere": "17/5/2024",
+    "DataIncheiere": "19/5/2024",
+    "Descriere": "Electric Daisy Carnival, cunoscut sub numele de EDC, este un festival de muzică electronică de dans organizat de promotorul și distribuitorul Insomniac. Evenimentul anual emblematic, EDC Las Vegas, are loc în luna mai la Las Vegas Motor Speedway și este în prezent cel mai mare festival de muzică electronică de dans din America de Nord.",
+    "Artisti": "Alesso, Armin Van Buuren, Deadmau5, David Guetta, DJ Snake, Martin Garrix, Zedd.",
+    "Image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/21/2022/02/01192654/EDCLV2021_1022_185438-5459_RML_768x440.jpg"
+  },
+  {
+    "idFestival": 3,
+    "Nume": "Neversea",
+    "Locatie": "Constanta, Romania",
+    "DataIncepere": "4/7/2024",
+    "DataIncheiere": "7/7/2024",
+    "Descriere": "Alăturați-vă celui mai mare festival de pe litoral. Alăturați-vă Neversea. Peste 200 de artiști creând o atmosferă uimitoare în Constanța, România.",
+    "Artisti": "Alok, Morten, Salvatore Ganacci",
+    "Image": "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2023-07/neversea_facebook.jpg"
+  },
+  {
+    "idFestival": 4,
+    "Nume": "Tomorrowland",
+    "Locatie": "Antwerp, Belgia",
+    "DataIncepere": "19/7/2024",
+    "DataIncheiere": "28/7/2024",
+    "Descriere": "Tomorrowland este un festival anual de muzică electronică de dans la scară largă, organizat în Boom, Anvers, Belgia. Desfășurată în parcul provincial de agrement De Schorre, a debutat în 2005, dintr-o idee concepută de frații Manu și Michiel Beers.",
+    "Artisti": "3 Are Legend, Armin Van Buuren, Alesso, Afrojack, David Guetta, Dimitri Vegas & Like Mike, Tiesto, Swedish House Mafia",
+    "Image": "https://tomorrowland-romania.com/wp-content/uploads/2020/02/74703541_10157116812134177_1207099871346032640_o.jpg"
+  },
+  {
+    "idFestival": 5,
+    "Nume": "Ultra",
+    "Locatie": "Miami, USA",
+    "DataIncepere": "22/3/2024",
+    "DataIncheiere": "24/3/2024",
+    "Descriere": "Ultra Music Festival este un festival anual de muzică electronică în aer liber care are loc anual în martie în Miami, Florida. Festivalul a fost fondat în 1999 de Russell Faibisch și Alex Omes.",
+    "Artisti": "Alesso, Calvin Harris, David Guetta, Martin Garrix, Tiesto, Timmy Trumpet, Zedd",
+    "Image": "https://www.billboard.com/wp-content/uploads/2022/03/UMF2022_0327_190211-9411_ALIVECOVERAGE.jpg"
+  },
+  {
+    "idFestival": 6,
+    "Nume": "Untold",
+    "Locatie": "Cluj, Romania",
+    "DataIncepere": "7/8/2024",
+    "DataIncheiere": "11/8/2024",
+    "Descriere": "Untold Festival este cel mai mare festival de muzică electronică desfășurat în România, având loc la Cluj-Napoca la Cluj Arena. Are loc anual și a fost desemnat cel mai bun festival major în cadrul European Festival Awards 2015. Oaspeții provin dintr-o gamă largă de țări europene, precum și din Asia și America de Nord.",
+    "Artisti": "Alok, Carl Cox, Fisher, Martin Garrix, Swdish House Mafia",
+    "Image": "https://static.infomusic.ro/media/2021/09/untold-2021-ultima-zi.jpeg"
+  }
+]
