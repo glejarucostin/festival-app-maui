@@ -17,7 +17,7 @@
     "DataIncheiere": "19/5/2024",
     "Descriere": "Electric Daisy Carnival, cunoscut sub numele de EDC, este un festival de muzică electronică de dans organizat de promotorul și distribuitorul Insomniac. Evenimentul anual emblematic, EDC Las Vegas, are loc în luna mai la Las Vegas Motor Speedway și este în prezent cel mai mare festival de muzică electronică de dans din America de Nord.",
     "Artisti": "Alesso, Armin Van Buuren, Deadmau5, David Guetta, DJ Snake, Martin Garrix, Zedd.",
-    "Image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/21/2022/02/01192654/EDCLV2021_1022_185438-5459_RML_768x440.jpg"
+    "Image": "https://github.com/glejarucostin/festival-app-maui/blob/dc4b73c72ae10e770784eea04dacb21fb5548f38/EDC-Las-Vegas-2021.jpeg"
   },
   {
     "idFestival": 3,
@@ -27,7 +27,7 @@
     "DataIncheiere": "7/7/2024",
     "Descriere": "Alăturați-vă celui mai mare festival de pe litoral. Alăturați-vă Neversea. Peste 200 de artiști creând o atmosferă uimitoare în Constanța, România.",
     "Artisti": "Alok, Morten, Salvatore Ganacci",
-    "Image": "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2023-07/neversea_facebook.jpg"
+    "Image": "https://github.com/glejarucostin/festival-app-maui/blob/c5a39a030d256ddb3db0ddb1d9b334d9ea21f403/neversea_facebook.jpg"
   },
   {
     "idFestival": 4,
@@ -37,7 +37,7 @@
     "DataIncheiere": "28/7/2024",
     "Descriere": "Tomorrowland este un festival anual de muzică electronică de dans la scară largă, organizat în Boom, Anvers, Belgia. Desfășurată în parcul provincial de agrement De Schorre, a debutat în 2005, dintr-o idee concepută de frații Manu și Michiel Beers.",
     "Artisti": "3 Are Legend, Armin Van Buuren, Alesso, Afrojack, David Guetta, Dimitri Vegas & Like Mike, Tiesto, Swedish House Mafia",
-    "Image": "https://tomorrowland-romania.com/wp-content/uploads/2020/02/74703541_10157116812134177_1207099871346032640_o.jpg"
+    "Image": "https://github.com/glejarucostin/festival-app-maui/blob/91e06b0ddd11d97ca79d9f9ce74e5e13da16f6a7/tml.jpg"
   },
   {
     "idFestival": 5,
@@ -47,7 +47,7 @@
     "DataIncheiere": "24/3/2024",
     "Descriere": "Ultra Music Festival este un festival anual de muzică electronică în aer liber care are loc anual în martie în Miami, Florida. Festivalul a fost fondat în 1999 de Russell Faibisch și Alex Omes.",
     "Artisti": "Alesso, Calvin Harris, David Guetta, Martin Garrix, Tiesto, Timmy Trumpet, Zedd",
-    "Image": "https://www.billboard.com/wp-content/uploads/2022/03/UMF2022_0327_190211-9411_ALIVECOVERAGE.jpg"
+    "Image": "https://github.com/glejarucostin/festival-app-maui/blob/d1775f7bd81a53f401ede6b14beb38ec685479ef/ultra.png"
   },
   {
     "idFestival": 6,
@@ -57,6 +57,6 @@
     "DataIncheiere": "11/8/2024",
     "Descriere": "Untold Festival este cel mai mare festival de muzică electronică desfășurat în România, având loc la Cluj-Napoca la Cluj Arena. Are loc anual și a fost desemnat cel mai bun festival major în cadrul European Festival Awards 2015. Oaspeții provin dintr-o gamă largă de țări europene, precum și din Asia și America de Nord.",
     "Artisti": "Alok, Carl Cox, Fisher, Martin Garrix, Swdish House Mafia",
-    "Image": "https://static.infomusic.ro/media/2021/09/untold-2021-ultima-zi.jpeg"
+    "Image": "https://github.com/glejarucostin/festival-app-maui/blob/3427395049b43c879e405fbce2eede92b5ce69a4/untold-expo-festival-eventorganiser-sep-2023.jpg"
   }
 ]
